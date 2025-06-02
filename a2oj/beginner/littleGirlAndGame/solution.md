@@ -1,0 +1,3 @@
+# [Little Girl and Game](https://codeforces.com/problemset/problem/276/B)
+
+A player wins when the current string can be rearranged into a palindrome. A palindrome exist if each letter has a pair, except the middle letter can have no pair. The goal of each player is to be the first one to reach a point where there is exactly 0 or 1 odd amount of characters. Removing an even pair is redundant, because it just adds an even amount of required turns to reach final win condition. The player can never skip turns (they must always remove a character) , thus this is a classic even / odd game, such that Player 1 wins when there are an odd amount of odd occuring characters, and Player 2 wins when there are an even amount of odd occuring characters.
