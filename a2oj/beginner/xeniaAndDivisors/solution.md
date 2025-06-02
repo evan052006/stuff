@@ -4,7 +4,7 @@
 
 $A = \\{ a \in \mathbb{Z} \mid 0 < a \leq 7 \\}$
 
-$|A| = n$
+$\left\|A\right\| = n$
 
 $3 \mid n$
 
