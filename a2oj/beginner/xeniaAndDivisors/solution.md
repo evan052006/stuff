@@ -2,15 +2,15 @@
 
 - Declare
 
-$A = \{a \in \mathbb{Z} \enspace | \enspace 0 < a <= 7 \}$
+$A = \\{ a \in \mathbb{Z} \mid 0 < a \leq 7 \\}$
 
 $|A| = n$
 
-$3 \; | \; n$
+$3 \mid n$
 
 - We want to partition into groups of 3, such that
 
-$a < b < c \quad \land \quad a \; | \; b \quad \land \quad b \; | \; c \quad \land \quad a \; | \; c$
+$a < b < c \quad \land \quad a \mid b \quad \land \quad b \mid c \quad \land \quad a \mid c$
 
 | Number | Factors |
 | --- | --- |
